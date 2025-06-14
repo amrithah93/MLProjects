@@ -2,7 +2,7 @@ library(hrbrthemes)
 library(GGally)
 data(iris)
 
-# Quick display of two cabapilities of GGally, to assess the distribution and correlation of variables 
+# Quick display of two capabilities of GGally, to assess the distribution and correlation of variables 
 library(GGally)
 
 # From the help page:
